@@ -29,21 +29,6 @@ This system helps make the reservation process faster, easier, and more organize
 * Database: MySQL
 * IDE: Visual Studio Code
 
-## Project Structure
-
-```text
-Online-Reservation-System/
-│
-├── src/
-│   ├── Main.java
-│   ├── User.java
-│   ├── Reservation.java
-│   └── DatabaseConnection.java
-│
-├── README.md
-└── database.sql
-```
-
 ## How to Run the Project
 
 1. Download or clone the project from GitHub.
